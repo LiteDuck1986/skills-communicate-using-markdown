@@ -19,3 +19,6 @@ Initialized empty Git repository in /LiteDuck1986/skills/Projects/recipe-reposit
 var myVar = "Hello, world!";
 ```
 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
